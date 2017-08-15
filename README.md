@@ -22,7 +22,7 @@ This will execute with the parameters specified in the configuration file and ca
 
 To try different parameters to train with, the code can be run with command line paramteres to perform different optimisations. For instance, changing the learning rate:
 
-<pre> th main.lua -lf 0.01 </pre>
+<pre> th main.lua -lr 0.01 </pre>
 
 There are many parameters that can be used to override the parameters specified in the configuration file. A full list of these is presented below.
 
