@@ -12,8 +12,8 @@ require 'model'
 
 
 -- Configurations file -- all settings are in this file
---dofile("config_activity.lua")
-dofile("config_gait.lua")
+dofile("config_activity.lua")
+--dofile("config_gait.lua")
 
 local main = {}	-- namespace
 
